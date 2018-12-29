@@ -3,7 +3,7 @@ Real snow!
 真实的雪！
 
 
-Click [here](http://test.m.soofs.top/snow.html) to [preview](http://test.m.soofs.top/snow.html).
+Click [here to preview](http://test.m.soofs.top/snow.html).
 
 
 
